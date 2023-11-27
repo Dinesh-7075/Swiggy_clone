@@ -1,0 +1,213 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+
+/* * {
+    box-sizing: border-box;
+    margin:0px;
+    padding:0px;
+}
+.navbar {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background-color: #f0f0f0;
+    width:100%;
+    box-shadow: 10px 5px 5px rgb(240, 238, 238);
+}
+
+.logo {
+    width: 60px;
+    height: 60px;
+    margin-left: 3%;
+    margin-right: 40%;
+}
+
+.nav-items > ul{
+    display:flex;
+    list-style-type: none;
+    align-items: center;
+}
+
+.nav-items > ul > li{
+    padding: 2px 20px 2px 20px;
+    font-size: 15px;
+}
+
+svg {
+    margin-right:3px;
+}
+
+.login-btn {
+    margin: 10px;
+    font-size: 16px;
+    margin-left:-20px;
+    cursor: pointer;
+    width:60px;
+}
+
+.nav-links{
+    margin-top:10px;
+    display:flex;
+    text-decoration: none;
+    color: black;
+}
+
+.nav-links:hover {
+    cursor: pointer;
+    color:#fd7e14;
+
+}
+
+.search-bar {
+    display: flex;
+    justify-content: center;
+}
+
+.search-bar input{
+    width:80%;
+    height:40px;
+    border-radius:5px solid #f0f0f0;
+    padding:10px;
+    font-weight: 400px;
+    font-size: 16px;
+    margin: 30px 0px;
+}
+
+.body-container {
+    width:90%;
+    margin:auto;
+}
+
+.res-container {
+    width:84%;
+    margin: auto;
+}
+
+.restaurant-list {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 5px;
+}
+
+.res-cards {
+    width:31%;   
+    height:315px;
+    margin:5px;
+    text-decoration: none;
+    color: black;
+}
+
+.res-cards .card-container {
+    width:100%;   
+    height:315px;
+    margin:5px;
+}
+
+.rest-img {
+    width: 100%;
+    height: 68%;
+    padding: 5px;
+}
+
+.card-container:hover {
+    cursor: pointer;
+    box-shadow: 10px 5px 5px rgb(194, 186, 186);
+}
+
+.buttons {
+    display:flex;
+    align-items: center;
+}
+
+.buttons button {
+    display:flex;
+    margin:10px;
+    height:18px;
+    margin-top: 13px;
+    cursor: pointer;
+}
+
+.card-data {
+    margin-left:5px;
+}
+
+
+/* Shimmer UI 
+
+.shimmer-buttons span {
+    display:flex;
+    margin:10px;
+    height:18px;
+    margin-top: 50px;
+    margin-bottom:50px;
+    cursor: pointer;
+    background-color: #f0f0f0;
+}
+
+.shimmer-restaurant-list {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 5px;
+}
+
+.shimmer-res-container {
+    width:80%;
+    margin: auto;
+}
+
+.shimmer-card-container {
+    width:30%;   
+    height:250px;
+    margin:5px;
+    border:none;
+}
+
+ .shimmmer-rest-img {
+    width: 100%;
+    height: 55%;
+    padding: 5px;
+    background-color: aliceblue;
+}
+
+.abtus-container {
+    width:100%;
+    height: 100px;
+    background-color: #fd7e14;
+}
+
+.res-menu {
+    margin:30px;
+}
+
+.res-menu > ul {
+    list-style-type: disc;
+}
+
+.res-menu > ul > li{
+    margin:10px 0px 15px 50px;   
+}
+
+.abtUs-h3 {
+    color:white;
+    padding:20px 20px 20px 80px;
+    margin:20px;
+    width:85%;
+    font-size:30px;
+}
+
+.userCard {
+   border:1px solid #f0f0f0;
+   margin:3% 0% 0% 35%;
+   width:30%;
+   padding:10px 0px 10px 15px;
+   line-height: 35px;
+   box-shadow: 10px 5px 5px rgb(194, 186, 186);
+} */
+
+
