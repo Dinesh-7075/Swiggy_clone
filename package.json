@@ -1,8 +1,7 @@
 {
-  "name": "namaste-react",
+  "name": "swiggy-clone",
   "version": "1.0.0",
-  "description": "This is Namaste React by Dinesh Reddy",
-  "main": "App.js",
+  "description": "This is swiggy-clone by Dinesh Reddy",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html",
@@ -15,6 +14,7 @@
   "keywords": [
     "react",
     "namaste-react",
+    "swiggy-clone",
     "DineshReddy"
   ],
   "author": "Dinesh Reddy",
